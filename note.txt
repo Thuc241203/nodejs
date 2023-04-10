@@ -1,0 +1,8 @@
+Chức năng hoàn thành: Thêm sửa xóa product,        
+thêm sửa xóa category,
+checkPermission,
+đăng ký đăng nhập
+
+chưa hoàn thành:
+xắp xết order
+upload ảnh
